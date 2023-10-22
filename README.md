@@ -1,3 +1,5 @@
+## Bulldozer Price Prediction with Regression
+
 The goal of this project is to predict the sale price of bulldozers based on various attributes such as machine specifications, usage, and historical data. The dataset used in this project is the Blue Book for Bulldozers dataset from Kaggle.
 
 The project follows a typical machine learning workflow, including data preprocessing, exploratory data analysis, feature engineering, model selection, and evaluation. The main steps in the notebook are:
